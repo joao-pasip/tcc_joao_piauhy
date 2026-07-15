@@ -1,4 +1,4 @@
-````markdown
+
 # Predição de TEA com Rastreamento Ocular, GRU e Bi-LSTM
 
 Este projeto faz parte de um Trabalho de Conclusão de Curso sobre a aplicação de modelos de aprendizado profundo em dados temporais de rastreamento ocular.
